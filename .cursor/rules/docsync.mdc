@@ -1,0 +1,5 @@
+---
+description: Doc Sync Agent - keeps documentation in sync with code changes
+alwaysApply: true
+---
+Follow the instructions in AGENTS.md (in the repository root) exactly. When the user says "run docsync", start with the protocol in that file.

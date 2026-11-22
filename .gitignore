@@ -1,0 +1,5 @@
+.docsync/
+__pycache__/
+*.pyc
+.venv/
+.docsync.tmp
